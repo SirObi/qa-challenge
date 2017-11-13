@@ -20,12 +20,14 @@ _Given_ I am viewing main page
 AR:  
 'Add new card' is not visible
 
+&nbsp;  
+&nbsp;  
 
 
 ### Ticket 2    
 Title: Submit button not aligned in 'Add card' form  
 
-Timestamp: 14:39, 21.09.2017.         Priority: Medium  
+Timestamp: 14:39, 21.09.2017         Priority: Medium  
 Browser: Chrome, Safari, Firefox  
 Device: Macbook Air 17"  
 Build: 1.9.1 (156)  
@@ -37,13 +39,15 @@ Steps:
 'Submit' button is not aligned with input fields (see designs)  
 !Screenshot-128d!  
 
+&nbsp;  
+&nbsp;  
 
 
 ### Ticket 3
 Title: Card title should be filled in automatically if not set by user  
 Build: 1.9.1 (156)  
 
-Timestamp: 14:39, 21.09.2017.         Priority: Medium  
+Timestamp: 14:39, 21.09.2017         Priority: Medium  
 
 Currently, the user is able to submit a card without setting    
 the title.  
