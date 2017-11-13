@@ -45,4 +45,14 @@ describe('Cards CRUD Test Suite', function(){
             });
     });
 
+    it('should delete Card', function() {
+        return browser
+            .url('http://localhost:8080/#/1')
+            .waitForVisible('#1-NEWTESTTITLE')
+            .click('#1-NEWTESTTITLE')
+            .getText('#card', (err,res) => {
+                res.length.should.equal(2);
+            });
+    });
+
 });
