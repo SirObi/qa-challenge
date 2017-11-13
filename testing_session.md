@@ -8,7 +8,7 @@ Title: Failed test: Adding cards (automated test)
 **Device**: iPhone 6 (QA1), iOS 11.1.0  
 **Build**: 1.9.1 (156)  
 
-**ER**:
+**ER**:  
 _Given_ I am viewing main page  
 &nbsp;&nbsp;And I can see the option 'Add new card'  
 *When* I select the option 'Add new card'  
